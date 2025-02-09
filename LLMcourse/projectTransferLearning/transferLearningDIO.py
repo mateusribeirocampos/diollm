@@ -5,6 +5,8 @@ from tensorflow.keras.optimizers import RMSprop
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from shutil import copyfile
 
+print(len(os.listdir('/Users/mateusribeirodecampos/myProjects/diollm/LLMcourse/projectTransferLearning/data/databaseTomato/green_tomatoes_images')))
+print(len(os.listdir('/Users/mateusribeirodecampos/myProjects/diollm/LLMcourse/projectTransferLearning/data/databaseTomato/red_tomatoes_images')))
 
 def split_data(SOURCE, TRAINING, TESTING, SPLIT_SIZE):
   files = []
@@ -40,3 +42,4 @@ def split_data(SOURCE, TRAINING, TESTING, SPLIT_SIZE):
   split_size = .9
   split_data(CAT_SOURCE_DIR, TRAINING_CATS_DIR, TESTING_CATS_DIR, split_size)
   split_data(DOG_SOURCE_DIR, TRAINING_DOGS_DIR, TESTING_DOGS_DIR, split_size)
+"""

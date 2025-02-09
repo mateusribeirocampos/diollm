@@ -173,6 +173,14 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# data
+data/
+
+# Ambiente Colab
+.Colab/
+.ssh/
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Generated using ignr.py - github.com/Antrikshy/ignr.py
