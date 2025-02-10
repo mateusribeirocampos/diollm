@@ -42,4 +42,3 @@ def split_data(SOURCE, TRAINING, TESTING, SPLIT_SIZE):
   split_size = .9
   split_data(CAT_SOURCE_DIR, TRAINING_CATS_DIR, TESTING_CATS_DIR, split_size)
   split_data(DOG_SOURCE_DIR, TRAINING_DOGS_DIR, TESTING_DOGS_DIR, split_size)
-"""

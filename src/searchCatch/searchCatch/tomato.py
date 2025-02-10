@@ -12,8 +12,8 @@ load_dotenv()
 API_KEY = os.getenv("GOOGLE_API_KEY")
 CSE_ID = os.getenv("GOOGLE_CSE_ID")
 QUERY = "tomatoes red -tomatillo"
-SAVE_DIR = "red_tomatoes_images"
-NUM_IMAGES = 100
+SAVE_DIR = "/Users/mateusribeirodecampos/myProjects/diollm/Data"
+NUM_IMAGES = 10
 MAX_RETRIES = 3
 DELAY_BETWEEN_PAGES = 2
 
