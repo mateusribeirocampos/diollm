@@ -180,6 +180,12 @@ data/
 .Colab/
 .ssh/
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# git
+.git/
+
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
