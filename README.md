@@ -9,17 +9,24 @@
 
 Repository containing practical implementations and study materials from the Digital Innovation One (DIO) Machine Learning Practitioner Bootcamp. This journey covers fundamental concepts to advanced techniques in ML, with hands-on projects and code challenges.
 
-📚 Table of Contents
+## 🌟 Bootcamp Highlight
 
-[Project Structure](#️-project-structure)
+- **Real-world Projects**: Facial recognition, image recommendation systems, virtual assistants
+- **Industry Connections**: Talent Match program for tech recruiters
+- **Expert Mentorship**: Live sessions with ML professionals
+- **Career-focused Learning**: Code challenges, project portfolio building, and ranking system
 
-[Technologies Used](#-technologies-used)
+## 📚 Table of Contents
 
-[Getting Started](#-getting-started)
+### [Project Structure](#️-project-structure)
 
-[License](#-license)
+### [Technologies Used](#-technologies-used)
 
-[Acknowledgements](#-acknowledgements)
+### [Getting Started](#-getting-started)
+
+### [License](#-license)
+
+### [Acknowledgements](#-acknowledgements)
 
 ## 🗂️ Project Structure
 
