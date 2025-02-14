@@ -53,7 +53,8 @@ diollm/
 │   └── pyproject.loml
 ├── .gitignore
 ├── .python-version
-└── README.md
+├── README.md
+└── requeriments.txt
 ```
 
 ## 💻 Technologies Used
